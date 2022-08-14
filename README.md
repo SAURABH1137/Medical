@@ -12,7 +12,7 @@ TOOLS
 3. FONT AWESOME (CDN)
 
 BACKEND
-MYSQL(XAMPP SERVER)
+1. MYSQL(XAMPP SERVER)
 
 LOGIN
 ![image](https://user-images.githubusercontent.com/111139558/184531171-968c7eb8-021a-4765-8db2-fe37836222e4.png)
